@@ -1,2 +1,2 @@
-# -School_ETS
-校易通
+# School_ETS
+校易通APP
