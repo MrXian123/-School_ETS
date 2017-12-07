@@ -1,0 +1,192 @@
+{
+	"q_evaluation/appraisal.html": {
+		"resources": [
+			"js/mui.picker.js",
+			"images/vol_team_date.png",
+			"images/active_1.png",
+			"js/mui.poppicker.js",
+			"js/city.data.js",
+			"css/mui.poppicker.css",
+			"css/mui.picker.css",
+			"js/city.data-3.js",
+			"images/active_manager_team.png",
+			"images/check_box_normal_bg_01.png",
+			"js/vue.min.js"
+		],
+		"refer": [
+			"q_evaluation/appdetails.html"
+		]
+	},
+	"mine/mine.html": {
+		"resources": [
+			"images/per06.png",
+			"images/yj.png",
+			"images/gx.png",
+			"images/hdjl.png",
+			"images/ql.png",
+			"images/svtcc.jpg",
+			"js/userjs.js",
+			"js/mui.min.js",
+			"fonts/mui.ttf",
+			"css/mui.min.css",
+			"js/vue.min.js",
+			"css/icons-extra.css"
+		],
+		"refer": [
+			"mine/personmsg/personmsg.html"
+		]
+	},
+	"guide.html": {
+		"resources": [
+			"images/f2.png",
+			"js/vue.min.js"
+		]
+	},
+	"index.html": {
+		"resources": [
+			"js/userjs.js",
+			"home/home.html",
+			"js/mui.min.js",
+			"css/iconfont.css",
+			"css/mui.min.css",
+			"fonts/iconfont.ttf",
+			"css/icons-extra.css",
+			"js/immersed.js"
+		],
+		"refer": [
+			"q_evaluation/appraisal.html",
+			"mine/mine.html",
+			"guide.html",
+			"home/home.html"
+		]
+	},
+	"q_evaluation/appdetails.html": {
+		"resources": [
+			"js/userjs.js",
+			"js/mui.min.js",
+			"css/mui.min.css",
+			"js/vue.min.js"
+		]
+	},
+	"home/home.html": {
+		"resources": [
+			"images/jy.jpg",
+			"images/xszn.png",
+			"images/djcx.png",
+			"images/banner44.jpg",
+			"images/exam.png",
+			"images/banner22.jpg",
+			"fonts/mui.ttf",
+			"images/xl.png",
+			"images/djbm.png",
+			"images/xy.png",
+			"images/kb.png",
+			"images/banner33.jpg",
+			"images/banner11.png",
+			"images/cj.png",
+			"js/vue.min.js"
+		],
+		"refer": [
+			"home/news/newsdetails.html",
+			"mine/login/newlogin.html",
+			"home/computerExam/inSchool.html",
+			"home/computerExam/outSchool.html"
+		]
+	},
+	"home/news/newsdetails.html": {
+		"resources": [
+			"js/mui.min.js",
+			"css/mui.min.css",
+			"js/vue.min.js"
+		]
+	},
+	"mine/login/newlogin.html": {
+		"resources": [
+			"mine/login/js/app.js",
+			"js/common.js",
+			"js/userjs.js",
+			"js/mui.min.js",
+			"css/mui.min.css",
+			"images/xyt.png"
+		]
+	},
+	"home/computerExam/inSchool.html": {
+		"resources": [
+			"images/511522199705133012.jpg",
+			"js/mui.picker.js",
+			"js/mui.picker.min.js",
+			"css/mui.css",
+			"css/mui.picker.css",
+			"js/immersed.js",
+			"js/common.js",
+			"js/userjs.js",
+			"css/common.css",
+			"js/mui.min.js",
+			"js/mui.poppicker.js",
+			"css/mui.min.css",
+			"css/mui.poppicker.css"
+		],
+		"refer": [
+			"home/computerExam/examSussce.html"
+		]
+	},
+	"home/computerExam/outSchool.html": {
+		"resources": [
+			"js/mui.picker.js",
+			"js/common.js",
+			"js/userjs.js",
+			"js/mui.picker.min.js",
+			"js/mui.min.js",
+			"css/common.css",
+			"js/mui.poppicker.js",
+			"css/mui.min.css",
+			"css/mui.poppicker.css",
+			"css/mui.picker.css",
+			"css/mui.css",
+			"js/immersed.js",
+			"images/addphotto.png"
+		]
+	},
+	"home/computerExam/examSussce.html": {
+		"resources": [
+			"index.html",
+			"js/mui.min.js",
+			"css/mui.min.css"
+		],
+		"refer": [
+			"index.html"
+		]
+	},
+	"mine/personmsg/personmsg.html": {
+		"resources": [
+			"js/mui.picker.js",
+			"js/userjs.js",
+			"js/mui.min.js",
+			"js/mui.poppicker.js",
+			"css/mui.min.css",
+			"js/vue.min.js",
+			"css/mui.poppicker.css",
+			"css/mui.picker.css"
+		],
+		"refer": [
+			"mine/personmsg/isbind.html",
+			"mine/personmsg/modify_password.html"
+		]
+	},
+	"mine/personmsg/isbind.html": {
+		"resources": [
+			"js/common.js",
+			"js/userjs.js",
+			"js/mui.min.js",
+			"css/mui.min.css"
+		]
+	},
+	"mine/personmsg/modify_password.html": {
+		"resources": [
+			"js/userjs.js",
+			"js/mui.min.js",
+			"css/mui.min.css",
+			"images/xyt.png"
+		]
+	}
+}
