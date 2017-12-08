@@ -105,7 +105,7 @@ var ac = function b() {
 
 	}
 };
-var ip = "http://0x2f.0x5c.0x52.0x70/"; //服务器ip地址
+ 
 var studentsInfoUrl = ip + 'public/index.php/ncre/Userbase/GetStuInfo'; //获取学生数据
 var outschoolInfoUrl = ip + 'public/index.php/ncre/Userbase/GetUserInfo'; //获取校外人员数据
 var examUrl = ip + 'public/index.php/ncre/NcreBaseData'; //获取 选择数据
